@@ -4,13 +4,13 @@ This repository contains multiple Scala assignments designed to enhance your und
 
 ## Assignments
 
-### 1. Assignment1 :: Functions and Closures 
+### 5. Assignment1 :: Functions and Closures 
 This Assignment focusing on a function Defination, Anonymous Functions,Closures and also Validation.
 
-### 2. Assignment2 :: Control Abstraction
+### 6. Assignment2 :: Control Abstraction
 This Assignment focusing on a Custom Control Structure, Resource Management and also validation.
 
-### 3. Assignment3 :: Composition and Inheritance
+### 7. Assignment3 :: Composition and Inheritance
 This Assignment focusing on a Class Hierarchy, Composition, Method Overriding and also validation.
 
 ## How to Use
