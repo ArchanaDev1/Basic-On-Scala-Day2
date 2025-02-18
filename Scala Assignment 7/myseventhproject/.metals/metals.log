@@ -1,0 +1,497 @@
+2025.02.18 19:24:34 INFO  Started: Metals version 1.5.1 in folders 'V:\scala Assignment 2\Scala Assignment 7\myseventhproject' for client Visual Studio Code 1.97.2.
+2025.02.18 19:24:35 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:24:51 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:24:52 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:24:53 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 18, 2025 7:25:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.02.18 19:25:07 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:25:08 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:25:08 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:25:39 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:19 INFO  Started: Metals version 1.5.1 in folders 'V:\scala Assignment 2\Scala Assignment 7\myseventhproject' for client Visual Studio Code 1.97.2.
+2025.02.18 19:26:23 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:24 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:49 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\vipin\AppData\Local\Temp\metals4217300573660056197\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.02.18 19:26:49 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:50 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 23.0.2)
+2025.02.18 19:26:51 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:52 INFO  [info] loading settings for project myseventhproject-build-build from metals.sbt...
+2025.02.18 19:26:52 INFO  [info] loading project definition from V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\project
+2025.02.18 19:26:55 WARN  no build target for: V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala
+2025.02.18 19:26:55 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:55 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:26:59 INFO  [info] loading settings for project myseventhproject-build from metals.sbt...
+2025.02.18 19:26:59 INFO  [info] loading project definition from V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project
+2025.02.18 19:27:37 INFO  [success] Generated .bloop\myseventhproject-build.json
+2025.02.18 19:27:37 INFO  [info] compiling 1 Scala source to V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\target\scala-2.12\sbt-1.0\classes ...
+2025.02.18 19:27:40 INFO  [info] done compiling
+2025.02.18 19:27:40 INFO  [success] Total time: 41 s, completed 18 Feb 2025, 7:27:40 pm
+2025.02.18 19:27:42 INFO  [info] loading settings for project root from build.sbt...
+2025.02.18 19:27:42 INFO  [info] set current project to MySeventhProject (in build file:/V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/)
+Feb 18, 2025 7:27:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.18 19:27:58 INFO  [success] Generated .bloop\root-test.json
+2025.02.18 19:27:58 INFO  [success] Generated .bloop\root.json
+2025.02.18 19:27:58 INFO  [success] Total time: 16 s, completed 18 Feb 2025, 7:27:58 pm
+2025.02.18 19:27:58 INFO  time: ran 'sbt bloopInstall' in 1m9s
+2025.02.18 19:27:58 INFO  Attempting to connect to the build server...
+2025.02.18 19:27:58 INFO  No running Bloop server found, starting one.
+2025.02.18 19:27:58 INFO  Starting compilation server
+2025.02.18 19:28:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Feb 18, 2025 7:28:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.18 19:28:21 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:28:21 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:28:21 INFO  Found a Bloop server running
+2025.02.18 19:28:21 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:21 WARN  Could not find semantic tokens for: file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/main/scala/Task3.scala
+2025.02.18 19:28:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:28:24 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:24 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:24 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:26 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:30 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:32 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:32 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:32 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:32 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:34 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:40 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:28:40 WARN  Could not find semantic tokens for: file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/main/scala/Task3.scala
+2025.02.18 19:28:42 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:28:42 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:28:42 INFO  Found a Bloop server running
+2025.02.18 19:28:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:29:02 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:29:02 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:29:02 INFO  Found a Bloop server running
+2025.02.18 19:29:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:29:22 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:29:22 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:29:22 INFO  Found a Bloop server running
+2025.02.18 19:29:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Feb 18, 2025 7:29:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.18 19:29:32 INFO  Attempting to connect to the build server...
+2025.02.18 19:29:32 INFO  Found a Bloop server running
+2025.02.18 19:29:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Feb 18, 2025 7:29:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.18 19:29:42 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:42 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:42 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:42 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:43 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:44 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:29:52 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:29:52 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:29:52 INFO  Found a Bloop server running
+2025.02.18 19:29:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:30:13 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:30:13 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:30:13 INFO  Found a Bloop server running
+2025.02.18 19:30:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:30:33 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:30:33 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:30:33 INFO  Found a Bloop server running
+2025.02.18 19:30:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:30:34 INFO  no build target found for V:\scala Assignment 2\Scala Assignment 7\myseventhproject\src\main\scala\Task3.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.18 19:30:34 WARN  Could not find semantic tokens for: file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/main/scala/Task3.scala
+2025.02.18 19:30:54 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:30:54 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:30:54 INFO  Found a Bloop server running
+2025.02.18 19:30:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:31:14 ERROR Timeout waiting for 'build/initialize' response
+2025.02.18 19:31:14 WARN  Retrying connection to the build server Bloop
+2025.02.18 19:31:14 INFO  Found a Bloop server running
+2025.02.18 19:31:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at V:\scala Assignment 2\Scala Assignment 7\myseventhproject\project\.metals\bsp.trace.json or C:\Users\vipin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.02.18 19:31:21 INFO  time: Connected to build server in 3m22s
+2025.02.18 19:31:21 INFO  Connected to Build server: Bloop v2.0.8
+2025.02.18 19:31:21 INFO  running doctor check
+2025.02.18 19:31:21 INFO  java targets: root-test, root, myseventhproject-build
+Feb 18, 2025 7:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://28afb339-f16e-4ca9-a15b-78a1dec9316a/response_d6b06a18-d725-462c-8f4b-490ea5d5daaf/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22v%3A%5C%5Cscala%20Assignment%202%5C%5CScala%20Assignment%207%5C%5Cmyseventhproject%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5CTask3.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fv%253A%2Fscala%2520Assignment%25202%2FScala%2520Assignment%25207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22path%22%3A%22%2FV%3A%2Fscala%20Assignment%202%2FScala%20Assignment%207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+Feb 18, 2025 7:33:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2025.02.18 19:33:01 INFO  compiling root (3 scala sources)
+2025.02.18 19:33:04 INFO  time: compiled root in 3.18s
+Feb 18, 2025 7:33:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://28afb339-f16e-4ca9-a15b-78a1dec9316a/response_d6b06a18-d725-462c-8f4b-490ea5d5daaf/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22v%3A%5C%5Cscala%20Assignment%202%5C%5CScala%20Assignment%207%5C%5Cmyseventhproject%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5CTask3.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fv%253A%2Fscala%2520Assignment%25202%2FScala%2520Assignment%25207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22path%22%3A%22%2FV%3A%2Fscala%20Assignment%202%2FScala%20Assignment%207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2025.02.18 19:34:09 INFO  time: indexed workspace in 2m47s
+2025.02.18 19:34:09 INFO  compiling root-test (1 scala source)
+2025.02.18 19:34:09 INFO  time: compiled root-test in 0.52s
+Feb 18, 2025 7:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://28afb339-f16e-4ca9-a15b-78a1dec9316a/response_d6b06a18-d725-462c-8f4b-490ea5d5daaf/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22v%3A%5C%5Cscala%20Assignment%202%5C%5CScala%20Assignment%207%5C%5Cmyseventhproject%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5CTask3.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fv%253A%2Fscala%2520Assignment%25202%2FScala%2520Assignment%25207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22path%22%3A%22%2FV%3A%2Fscala%20Assignment%202%2FScala%20Assignment%207%2Fmyseventhproject%2Fsrc%2Fmain%2Fscala%2FTask3.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2025.02.18 19:34:57 INFO  compiling root (1 scala source)
+2025.02.18 19:34:57 INFO  time: compiled root in 0.27s
+2025.02.18 19:36:12 INFO  compiling root (1 scala source)
+2025.02.18 19:36:12 INFO  time: compiled root in 0.84s
+Feb 18, 2025 7:36:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:37:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:37:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:37:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:40:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:41:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:41:08 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\.reports\metals-full\2025-02-18\r_empty-definition_(root-test)_19-41-08-070.md)
+2025.02.18 19:41:10 INFO  compiling root-test (1 scala source)
+2025.02.18 19:41:10 INFO  time: compiled root-test in 0.33s
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:1:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.flatspec.AnyFlatSpec
+       ^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:2:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.matchers.should.Matchers
+       ^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:28: stale bloop error: not found: type AnyFlatSpec
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                           ^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:45: stale bloop error: not found: type Matchers
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                                            ^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:6:3: stale bloop error: value should is not a member of String
+  "Dog" should "speak Woof!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:5: stale bloop error: value should is not a member of String
+    dog.speak() should be ("speaking and Woof!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:24: stale bloop error: not found: value be
+    dog.speak() should be ("speaking and Woof!")
+                       ^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:11:3: stale bloop error: value should is not a member of String
+  "Cat" should "speak Meow!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:5: stale bloop error: value should is not a member of String
+    cat.speak() should be ("speaking and Meow!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:24: stale bloop error: not found: value be
+    cat.speak() should be ("speaking and Meow!")
+                       ^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:16:3: stale bloop error: value should is not a member of String
+  "Zoo" should "manage its collection of animals" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:5: stale bloop error: value should is not a member of List[Animal]
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:20: stale bloop error: not found: value contain
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+                   ^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:5: stale bloop error: value should is not a member of List[String]
+    sounds should contain theSameElementsAs List("speaking and Woof!", "speaking and Woof!", "speaking and Meow!", "speaking and Meow!")
+    ^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:19: stale bloop error: not found: value contain
+    sounds should contain theSameElementsAs List("speaking and Woof!", "speaking and Woof!", "speaking and Meow!", "speaking and Meow!")
+                  ^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:37:5: stale bloop error: value should is not a member of List[Animal]
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.02.18 19:41:53 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:37:33: stale bloop error: not found: value contain
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+                                ^^^^^^^
+Feb 18, 2025 7:41:57 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: V:\scala Assignment 2\Scala Assignment 7\myseventhproject\.metals\.reports\metals-full\2025-02-18\r_empty-definition_(root-test)_19-41-08-070.md)
+2025.02.18 19:41:57 INFO  compiling root-test (1 scala source)
+2025.02.18 19:41:57 INFO  time: compiled root-test in 0.25s
+Feb 18, 2025 7:44:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 18, 2025 7:44:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:1:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.flatspec.AnyFlatSpec
+       ^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:2:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.matchers.should.Matchers
+       ^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:28: stale bloop error: not found: type AnyFlatSpec
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                           ^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:45: stale bloop error: not found: type Matchers
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                                            ^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:6:3: stale bloop error: value should is not a member of String
+  "Dog" should "speak Woof!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:5: stale bloop error: value should is not a member of String
+    dog.speak() should be ("speaking and Woof!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:24: stale bloop error: not found: value be
+    dog.speak() should be ("speaking and Woof!")
+                       ^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:11:3: stale bloop error: value should is not a member of String
+  "Cat" should "speak Meow!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:5: stale bloop error: value should is not a member of String
+    cat.speak() should be ("speaking and Meow!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:24: stale bloop error: not found: value be
+    cat.speak() should be ("speaking and Meow!")
+                       ^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:16:3: stale bloop error: value should is not a member of String
+  "Zoo" should "manage its collection of animals" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:5: stale bloop error: value should is not a member of List[Animal]
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:20: stale bloop error: not found: value contain
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+                   ^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:5: stale bloop error: value should is not a member of List[String]
+    sounds should contain theSameElementsAs List("speaking and Woof!", "speaking and Woof!", "speaking and Meow!", "speaking and Meow!")
+    ^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:19: stale bloop error: not found: value contain
+    sounds should contain theSameElementsAs List("speaking and Woof!", "speaking and Woof!", "speaking and Meow!", "speaking and Meow!")
+                  ^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:37:5: stale bloop error: value should is not a member of List[Animal]
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.02.18 19:44:48 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:37:33: stale bloop error: not found: value contain
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+                                ^^^^^^^
+2025.02.18 19:44:51 INFO  compiling root-test (1 scala source)
+2025.02.18 19:44:51 INFO  time: compiled root-test in 0.28s
+2025.02.18 19:45:26 INFO  compiling root-test (1 scala source)
+2025.02.18 19:45:26 INFO  time: compiled root-test in 0.35s
+2025.02.18 19:45:44 INFO  compiling root-test (1 scala source)
+2025.02.18 19:45:44 INFO  time: compiled root-test in 0.27s
+2025.02.18 19:47:08 INFO  compiling root-test (1 scala source)
+2025.02.18 19:47:08 INFO  time: compiled root-test in 0.23s
+2025.02.18 19:50:00 INFO  compiling myseventhproject-build (1 scala source)
+2025.02.18 19:50:00 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.20. Compiling...
+2025.02.18 19:50:05 INFO  time: code lens generation in 4.03s
+Feb 18, 2025 7:50:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://28afb339-f16e-4ca9-a15b-78a1dec9316a/response_993ccd7e-212d-4185-9a6e-bbf631769499/1#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22v%3A%5C%5Cscala%20Assignment%202%5C%5CScala%20Assignment%207%5C%5Cmyseventhproject%5C%5Csrc%5C%5Ctest%5C%5Cscala%5C%5CValidateSpec.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fv%253A%2Fscala%2520Assignment%25202%2FScala%2520Assignment%25207%2Fmyseventhproject%2Fsrc%2Ftest%2Fscala%2FValidateSpec.scala%22%2C%22path%22%3A%22%2FV%3A%2Fscala%20Assignment%202%2FScala%20Assignment%207%2Fmyseventhproject%2Fsrc%2Ftest%2Fscala%2FValidateSpec.scala%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:718)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2025.02.18 19:50:11 INFO  Compilation completed in 10.981s.
+2025.02.18 19:50:14 INFO  time: compiled myseventhproject-build in 13s
+2025.02.18 19:51:34 INFO  compiling root-test (1 scala source)
+2025.02.18 19:51:34 INFO  time: compiled root-test in 0.81s
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:1:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.flatspec.AnyFlatSpec
+       ^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:2:8: stale bloop error: object scalatest is not a member of package org
+import org.scalatest.matchers.should.Matchers
+       ^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:28: stale bloop error: not found: type AnyFlatSpec
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                           ^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:4:45: stale bloop error: not found: type Matchers
+class ValidateSpec extends AnyFlatSpec with Matchers {
+                                            ^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:6:3: stale bloop error: value should is not a member of String
+  "Dog" should "speak Woof!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:5: stale bloop error: value should is not a member of String
+    dog.speak() should be("speaking and Woof-woof!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:8:24: stale bloop error: not found: value be
+    dog.speak() should be("speaking and Woof-woof!")
+                       ^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:11:3: stale bloop error: value should is not a member of String
+  "Cat" should "speak Meow!" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:5: stale bloop error: value should is not a member of String
+    cat.speak() should be("speaking and Meow-meow!")
+    ^^^^^^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:13:24: stale bloop error: not found: value be
+    cat.speak() should be("speaking and Meow-meow!")
+                       ^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:16:3: stale bloop error: value should is not a member of String
+  "Zoo" should "manage its collection of animals" in {
+  ^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:24:19: stale bloop error: type mismatch;
+ found   : Dog1
+ required: Animal
+    zoo.addAnimal(dog1)
+                  ^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:25:19: stale bloop error: type mismatch;
+ found   : Dog1
+ required: Animal
+    zoo.addAnimal(dog2)
+                  ^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:26:19: stale bloop error: type mismatch;
+ found   : Cat1
+ required: Animal
+    zoo.addAnimal(cat1)
+                  ^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:27:19: stale bloop error: type mismatch;
+ found   : Cat1
+ required: Animal
+    zoo.addAnimal(cat2)
+                  ^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:5: stale bloop error: value should is not a member of List[Animal]
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:30:20: stale bloop error: not found: value contain
+    animals should contain theSameElementsAs List(dog1, dog2, cat1, cat2)
+                   ^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:5: stale bloop error: value should is not a member of List[String]
+    sounds should contain theSameElementsAs List(
+    ^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:33:19: stale bloop error: not found: value contain
+    sounds should contain theSameElementsAs List(
+                  ^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:40:22: stale bloop error: type mismatch;
+ found   : Dog1
+ required: Animal
+    zoo.deleteAnimal(dog1)
+                     ^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:42:5: stale bloop error: value should is not a member of List[Animal]
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.02.18 19:51:38 INFO  file:///V:/scala%20Assignment%202/Scala%20Assignment%207/myseventhproject/src/test/scala/ValidateSpec.scala:42:33: stale bloop error: not found: value contain
+    animalsAfterDeletion should contain theSameElementsAs List(dog2, cat1, cat2)
+                                ^^^^^^^
+2025.02.18 19:51:40 INFO  compiling root-test (1 scala source)
+2025.02.18 19:51:40 INFO  time: compiled root-test in 0.3s
+2025.02.18 19:54:11 INFO  compiling root (1 scala source)
+2025.02.18 19:54:11 INFO  time: compiled root in 0.41s
+2025.02.18 19:54:11 INFO  compiling root (1 scala source)
+2025.02.18 19:54:11 INFO  time: compiled root in 0.1s
+2025.02.18 19:54:31 INFO  compiling root (3 scala sources)
+2025.02.18 19:54:31 INFO  time: compiled root in 0.91s
+2025.02.18 19:54:31 INFO  compiling root-test (1 scala source)
+2025.02.18 19:54:32 INFO  time: compiled root-test in 0.18s
+2025.02.18 19:54:38 INFO  compiling root-test (1 scala source)
+2025.02.18 19:54:38 INFO  time: compiled root-test in 0.21s
+2025.02.18 19:55:29 INFO  compiling root-test (1 scala source)
+2025.02.18 19:55:29 INFO  time: compiled root-test in 0.16s
+2025.02.18 19:56:10 INFO  compiling root-test (1 scala source)
+2025.02.18 19:56:10 INFO  time: compiled root-test in 0.24s
+2025.02.18 19:57:02 INFO  compiling root-test (1 scala source)
+2025.02.18 19:57:02 INFO  time: compiled root-test in 0.26s
+2025.02.18 19:57:20 INFO  compiling root-test (1 scala source)
+2025.02.18 19:57:20 INFO  time: compiled root-test in 0.14s
+2025.02.18 19:57:38 INFO  Shutting down server
+2025.02.18 19:57:38 INFO  shutting down Metals
+2025.02.18 19:57:38 INFO  Shut down connection with build server.
+2025.02.18 19:57:38 INFO  Shut down connection with build server.
+2025.02.18 19:57:38 INFO  Exiting server
